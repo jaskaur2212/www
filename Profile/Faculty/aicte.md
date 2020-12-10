@@ -10,7 +10,8 @@
 | Qualification | M.tech (Computer Science & Engineering) , B.tech (Computer Science & Engineering)  |
 | No. of Publications (Journal) | 03 |
 
-### *INTRODUCTION* ![Display picture](figures/logo) 
+
+### *INTRODUCTION* ![Display picture](figures/logo.jpg) 
  Globalisation of the world economy and higher education are driving profound changes in engineering education system. There is a continuing need to dynamically adapt to these changes, to ensure that we remain competitive and can respond effectively to the challenges of globalisation. Future engineering graduates not only need to be knowledgeable in his/her discipline but also needs a new set of soft, professional skills and competencies. In recent years, there have been essential changes in engineering education in terms of what to teach (content) and how to teach (knowledge delivery) and how to assess (student learning). AICTE has already taken initiation to come out with model curriculum for engineering programs. The digital initiatives of MHRD and AICTE have made available very large number of MOOC courses through SWAYAM, that can help the colleges and teachers to adopt innovative methodologies in the delivery of course. The present report focusses on the recommendations for reforms in examinations (assessment of student) in the context of emerging landscape of engineering education. Examinations/student assessments play a very important role in deciding the quality of education. They must not only assess student’s achievements (and grades) but also measure whether the desired learning outcomes have been achieved. The achievement of objectives and program outcomes are crucial and needs to be proven through accurate and reliable assessments. The academic quality of examinations (question papers) in Indian engineering education system has been a matter of concern from a long time. It is widely acknowledged that “assessment drives learning’’, what and how students learn depends to a major extent on how they think they will be assessed. The question papers that require simple memory recall will not ensure deep, meaningful learning. High expectations for learning motivate the students to rise to the occasion. The assessment (examination) must embed those high expectations to ensure that the learner is motivated to attain them. Considering the above imperatives, it is clear that reforms in Examinations are critical for improvement of the quality of Indian engineering education.
 The most important drivers for reforms in examination system of Indian engineering education are:
 1.Adaptation of Outcome-Based Education Framework 
@@ -31,7 +32,7 @@ For improving the structure and quality of assessment in various engineering pro
 	c. Assessment method to be adapted 
 
 #Bloom’s Taxonomy for Assessment Design
-![Display picture](figures/bl) 
+![Display picture](figures/bl.jpg) 
 
 #Action Verbs for Assessment
 
@@ -44,7 +45,7 @@ For improving the structure and quality of assessment in various engineering pro
 | 5. Evaluate | compare and discriminate between ideas • assess value of theories, presentations • make choices based on reasoned argument • verify value of evidence • recognize subjectivity • use of definite criteria for judgments |assess, decide, choose, rank, grade, test, measure, defend, recommend, convince, select, judge, support, conclude, argue, justify, compare, summarize, evaluate
 | 6. Create | use old ideas to create new ones • Combine parts to make (new) whole, • generalize from given facts • relate knowledge from several areas • predict, draw conclusions |design, formulate, build, invent, create, compose, generate, derive, modify, develop, integrate
 
-![Display picture](figures/BL_ass) 
+![Display picture](figures/BL_ass.jpg) 
 
 ##ASSESSING HIGHER-ORDER ABILITIES & PROFESSIONAL SKILLS
 1.	Innovative Educational Experiences to Teach and Assess
